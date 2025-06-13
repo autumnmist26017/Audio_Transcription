@@ -1,5 +1,0 @@
-Flask
-pandas
-matplotlib
-vaderSentiment
-scraibe
